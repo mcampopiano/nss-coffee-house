@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+.pageHeader {
+    width: 200px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.shop {
+    border: 1px dotted black;
+    flex-basis: 16%;
+    padding-right: 5px;
+}
